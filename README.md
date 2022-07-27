@@ -1,6 +1,11 @@
 # eventkg
 实验室主页
 
+
+### 主页
+[官网主页](http://www.eventkg.net/)
+
+
 ### nginx 部署
 ``` 
 cat /etc/nginx/nginx.conf
